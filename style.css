@@ -66,3 +66,7 @@ a {
 a:hover {
     font-weight: bold;
 }
+
+ul.dois {
+    columns: 2;
+}
